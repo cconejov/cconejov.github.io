@@ -57,21 +57,15 @@ library(caret)        #CV
 
 
 
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
+&lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot1_balanced_outcome_hu51588ff513bceff06fded3a48929ab52_4930_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot1_balanced_outcome_hu51588ff513bceff06fded3a48929ab52_4930_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
   &lt;img data-src=&#34;https://cconejov.github.io/project/internal-project/plot1_balanced_outcome_hu51588ff513bceff06fded3a48929ab52_4930_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;589&#34; height=&#34;394&#34;&gt;
 &lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    A caption
-  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
@@ -310,21 +304,15 @@ global_error &amp;lt;- tibble(Iteration = seq(1,10),
 
 
 
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
+&lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot2_quantity_yes_hu16278502f501e3e1ea278e77af2d1e1e_11260_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot2_quantity_yes_hu16278502f501e3e1ea278e77af2d1e1e_11260_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
   &lt;img data-src=&#34;https://cconejov.github.io/project/internal-project/plot2_quantity_yes_hu16278502f501e3e1ea278e77af2d1e1e_11260_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;589&#34; height=&#34;394&#34;&gt;
 &lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    A caption
-  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
@@ -363,21 +351,15 @@ global_error &amp;lt;- tibble(Iteration = seq(1,10),
 
 
 
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
+&lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot3_avg_error_hud6d6fc1e43b51dc021e78a59eaf17e5a_11160_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://cconejov.github.io/project/internal-project/plot3_avg_error_hud6d6fc1e43b51dc021e78a59eaf17e5a_11160_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
   &lt;img data-src=&#34;https://cconejov.github.io/project/internal-project/plot3_avg_error_hud6d6fc1e43b51dc021e78a59eaf17e5a_11160_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;589&#34; height=&#34;394&#34;&gt;
 &lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    A caption
-  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
