@@ -5,7 +5,7 @@
     <link>https://cconejov.github.io/</link>
       <atom:link href="https://cconejov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 09:59:22 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 16:53:01 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Academic</title>
@@ -13,11 +13,22 @@
     </image>
     
     <item>
+      <title>Anomaly Detection using R</title>
+      <link>https://cconejov.github.io/project/outlier_detection/</link>
+      <pubDate>Tue, 17 Mar 2020 16:53:01 -0600</pubDate>
+      <guid>https://cconejov.github.io/project/outlier_detection/</guid>
+      <description>&lt;p&gt;Currently, a lot of processes cause information that can be gathered as time series. Predicting anomalies in the observations also is crucial for decision making. Identifying those events in time series is usually complicated, so packages like &lt;em&gt;Anomalize&lt;/em&gt; in R brings effective
+solutions for identifying outliers observations.&lt;/p&gt;
+&lt;p&gt;Work in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Skill Set for data scientists</title>
       <link>https://cconejov.github.io/post/ds_skill_set/</link>
       <pubDate>Thu, 12 Mar 2020 09:59:22 -0600</pubDate>
       <guid>https://cconejov.github.io/post/ds_skill_set/</guid>
-      <description>&lt;p&gt;On the Internet, you can find a lot of definitions of data science. My preferred description of this science I founded in the Harvard Data Science Review (HDSR). Rafael A. Irizarry defines data science as &lt;em&gt;&amp;ldquo;an umbrella term to describe the entire complex and multistep processes used to extract value from data&amp;rdquo;&lt;/em&gt; (Irizarry, 2020). Following this definition, a strong data scientist require to have expertise in the following areas (Diesinger, 2016):&lt;/p&gt;
+      <description>&lt;p&gt;On the Internet, you can find a lot of definitions of data science. My preferred description of this science I founded it in the Harvard Data Science Review (HDSR). Rafael A. Irizarry defines data science as &lt;em&gt;&amp;ldquo;an umbrella term to describe the entire complex and multistep processes used to extract value from data&amp;rdquo;&lt;/em&gt; (Irizarry, 2020). Following this definition, a strong data scientist require to have expertise in the following areas (Diesinger, 2016):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Technical skills.&lt;/li&gt;
 &lt;li&gt;Analytical skills.&lt;/li&gt;
@@ -81,11 +92,13 @@ with business users utilizing business lingua&amp;rdquo; (Diesinger, 2016).&lt;/
     </item>
     
     <item>
-      <title>Unsupervised</title>
+      <title>Unsupervised Algorithms in Machine Learning</title>
       <link>https://cconejov.github.io/project/unsupervised/</link>
       <pubDate>Sun, 08 Mar 2020 21:44:22 -0600</pubDate>
       <guid>https://cconejov.github.io/project/unsupervised/</guid>
-      <description></description>
+      <description>&lt;p&gt;This project provides some examples of unsupervised algorithms in machine learning. In these techniques, we need to infer the properties of the observations without the help of an output variable or &lt;em&gt;supervisor&lt;/em&gt;. We review two methods: k-means and hierarchical clustering. Then we use
+some data from Kaggle for applying these techniques to produce a customer segmentation. The platform that we use is R. Because of the number of observations, we are going to use a parallel process for improving the execution times.&lt;/p&gt;
+</description>
     </item>
     
     <item>

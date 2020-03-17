@@ -5,7 +5,7 @@
     <link>https://cconejov.github.io/project/</link>
       <atom:link href="https://cconejov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Mar 2020 21:44:22 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 16:53:01 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -13,11 +13,24 @@
     </image>
     
     <item>
-      <title>Unsupervised</title>
+      <title>Anomaly Detection using R</title>
+      <link>https://cconejov.github.io/project/outlier_detection/</link>
+      <pubDate>Tue, 17 Mar 2020 16:53:01 -0600</pubDate>
+      <guid>https://cconejov.github.io/project/outlier_detection/</guid>
+      <description>&lt;p&gt;Currently, a lot of processes cause information that can be gathered as time series. Predicting anomalies in the observations also is crucial for decision making. Identifying those events in time series is usually complicated, so packages like &lt;em&gt;Anomalize&lt;/em&gt; in R brings effective
+solutions for identifying outliers observations.&lt;/p&gt;
+&lt;p&gt;Work in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Algorithms in Machine Learning</title>
       <link>https://cconejov.github.io/project/unsupervised/</link>
       <pubDate>Sun, 08 Mar 2020 21:44:22 -0600</pubDate>
       <guid>https://cconejov.github.io/project/unsupervised/</guid>
-      <description></description>
+      <description>&lt;p&gt;This project provides some examples of unsupervised algorithms in machine learning. In these techniques, we need to infer the properties of the observations without the help of an output variable or &lt;em&gt;supervisor&lt;/em&gt;. We review two methods: k-means and hierarchical clustering. Then we use
+some data from Kaggle for applying these techniques to produce a customer segmentation. The platform that we use is R. Because of the number of observations, we are going to use a parallel process for improving the execution times.&lt;/p&gt;
+</description>
     </item>
     
     <item>
