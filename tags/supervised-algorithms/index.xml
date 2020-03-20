@@ -364,6 +364,8 @@ global_error &amp;lt;- tibble(Iteration = seq(1,10),
 
 &lt;/figure&gt;
 
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Hastie T., Tibshirani R., Friedman J. 2008. The elements of Statistical Learning. Springer.&lt;/p&gt;
 </description>
     </item>
     

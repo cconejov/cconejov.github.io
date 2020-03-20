@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomaly Detection | Academic</title>
+    <link>https://cconejov.github.io/tags/anomaly-detection/</link>
+      <atom:link href="https://cconejov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anomaly Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 16:53:01 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anomaly Detection</title>
+      <link>https://cconejov.github.io/tags/anomaly-detection/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Detection using R</title>
+      <link>https://cconejov.github.io/project/outlier_detection/</link>
+      <pubDate>Tue, 17 Mar 2020 16:53:01 -0600</pubDate>
+      <guid>https://cconejov.github.io/project/outlier_detection/</guid>
+      <description>&lt;p&gt;Currently, a lot of processes cause information that can be gathered as time series. Predicting anomalies in the observations also is crucial for decision making. Identifying those events in time series is usually complicated, so packages like &lt;em&gt;Anomalize&lt;/em&gt; in R brings effective
+solutions for identifying outliers observations.&lt;/p&gt;
+&lt;p&gt;Work in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -92,12 +92,15 @@ with business users utilizing business lingua&amp;rdquo; (Diesinger, 2016).&lt;/
     </item>
     
     <item>
-      <title>Unsupervised Algorithms in Machine Learning</title>
+      <title>Unsupervised Algorithms</title>
       <link>https://cconejov.github.io/project/unsupervised/</link>
       <pubDate>Sun, 08 Mar 2020 21:44:22 -0600</pubDate>
       <guid>https://cconejov.github.io/project/unsupervised/</guid>
       <description>&lt;p&gt;This project provides some examples of unsupervised algorithms in machine learning. In these techniques, we need to infer the properties of the observations without the help of an output variable or &lt;em&gt;supervisor&lt;/em&gt;. We review two methods: k-means and hierarchical clustering. Then we use
-some data from Kaggle for applying these techniques to produce a customer segmentation. The platform that we use is R. Because of the number of observations, we are going to use a parallel process for improving the execution times.&lt;/p&gt;
+some data from 
+&lt;a href=&#34;https://www.kaggle.com/arjunbhasin2013/ccdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle&lt;/a&gt;  for applying these techniques to produce a customer segmentation. The platform that we use is 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;. Because of the number of observations, we are going to use a parallel process for improving the execution times using the 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/snow/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snow&lt;/a&gt; package.&lt;/p&gt;
 </description>
     </item>
     
@@ -453,6 +456,8 @@ global_error &amp;lt;- tibble(Iteration = seq(1,10),
 
 &lt;/figure&gt;
 
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Hastie T., Tibshirani R., Friedman J. 2008. The elements of Statistical Learning. Springer.&lt;/p&gt;
 </description>
     </item>
     
