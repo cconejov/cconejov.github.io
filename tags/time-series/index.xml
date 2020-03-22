@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anomaly Detection | Academic</title>
-    <link>https://cconejov.github.io/tags/anomaly-detection/</link>
-      <atom:link href="https://cconejov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
-    <description>Anomaly Detection</description>
+    <title>Time Series | Academic</title>
+    <link>https://cconejov.github.io/tags/time-series/</link>
+      <atom:link href="https://cconejov.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 16:53:01 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Anomaly Detection</title>
-      <link>https://cconejov.github.io/tags/anomaly-detection/</link>
+      <title>Time Series</title>
+      <link>https://cconejov.github.io/tags/time-series/</link>
     </image>
     
     <item>
