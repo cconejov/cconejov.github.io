@@ -5,12 +5,25 @@
     <link>https://cconejov.github.io/</link>
       <atom:link href="https://cconejov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 16:53:01 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2020 17:17:04 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Academic</title>
       <link>https://cconejov.github.io/</link>
     </image>
+    
+    <item>
+      <title>Survival Analysis: Hard Drive Reliability Sample</title>
+      <link>https://cconejov.github.io/project/surv_analysis_hdd/</link>
+      <pubDate>Wed, 25 Mar 2020 17:17:04 -0600</pubDate>
+      <guid>https://cconejov.github.io/project/surv_analysis_hdd/</guid>
+      <description>&lt;p&gt;The branch of statistics that study the expected duration of time for an event to occur is called survival analysis. The number of events can be one or more.  This project reviews nonparametric methods like Kaplan-Meier, Nelson-Aalen, and Cox proportional hazards model is applied to the Hard Drive of 
+&lt;a href=&#34;https://www.backblaze.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Backblaze&lt;/a&gt; in the context of &lt;em&gt;failure-time analysis&lt;/em&gt;. In this way, the goal is to find the probabilities that the hard disk works well for 1 year using the data collected in 2019. The package used for this exercise is 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/survival/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survival&lt;/a&gt;. For the number of files, it also uses 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/data.table/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data.table&lt;/a&gt; package.&lt;/p&gt;
+&lt;p&gt;Work in Progress.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anomaly Detection in Time Series using R</title>
@@ -125,7 +138,8 @@ library(randomForest) #RF
 library(ada)          #Boost
 library(caret)        #CV
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Using the &lt;em&gt;purchasedBikes&lt;/em&gt; file (see &lt;a href=&#34;https://github.com/cconejov/purchased_Bike/tree/master/Data&#34;&gt;https://github.com/cconejov/purchased_Bike/tree/master/Data&lt;/a&gt;), this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output &lt;em&gt;PurchasedBike&lt;/em&gt;. It indicates if a customer bought or not a bicycle.&lt;/p&gt;
+&lt;p&gt;Using the 
+&lt;a href=&#34;https://github.com/cconejov/purchased_Bike/tree/master/Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;purchasedBikes&lt;/a&gt; file, this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output &lt;em&gt;PurchasedBike&lt;/em&gt;. It indicates if a customer bought or not a bicycle.&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;purchased_bike &amp;lt;- read.table(&amp;quot;purchasedBikes.csv&amp;quot;,
                               header = TRUE,
                               sep = &amp;quot;;&amp;quot;,

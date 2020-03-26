@@ -44,7 +44,8 @@ library(randomForest) #RF
 library(ada)          #Boost
 library(caret)        #CV
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Using the &lt;em&gt;purchasedBikes&lt;/em&gt; file (see &lt;a href=&#34;https://github.com/cconejov/purchased_Bike/tree/master/Data&#34;&gt;https://github.com/cconejov/purchased_Bike/tree/master/Data&lt;/a&gt;), this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output &lt;em&gt;PurchasedBike&lt;/em&gt;. It indicates if a customer bought or not a bicycle.&lt;/p&gt;
+&lt;p&gt;Using the 
+&lt;a href=&#34;https://github.com/cconejov/purchased_Bike/tree/master/Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;purchasedBikes&lt;/a&gt; file, this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output &lt;em&gt;PurchasedBike&lt;/em&gt;. It indicates if a customer bought or not a bicycle.&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;purchased_bike &amp;lt;- read.table(&amp;quot;purchasedBikes.csv&amp;quot;,
                               header = TRUE,
                               sep = &amp;quot;;&amp;quot;,
